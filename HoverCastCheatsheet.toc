@@ -2,9 +2,9 @@
 ## Title: |cff0cd29fEllesmereUI HoverCast Cheatsheet|r
 ## Notes: Compact display for active EllesmereUI HoverCast spell bindings.
 ## Author: Bari
-## Version: 1.5.1
+## Version: 1.0.0
 ## SavedVariables: HoverCastCheatsheetDB
 ## Dependencies: EllesmereUI, EllesmereUIRaidFrames
-## IconTexture: Interface\AddOns\HoverCastCheatsheet\Media\HoverCastCheatsheet.tga
+## IconTexture: Interface\AddOns\EllesmereUIHoverCastCheatsheet\Media\HoverCastCheatsheet.tga
 ## X-Curse-Project-ID: 1669967
 HoverCastCheatsheet.lua
