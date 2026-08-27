@@ -1,4 +1,4 @@
-HoverCast Cheatsheet 1.5.1
+EllesmereUI HoverCast Cheatsheet 1.5.1
 
 A read-only companion addon for EllesmereUI Raid Frames HoverCast bindings.
 It does not require Clique and does not modify or register options with EllesmereUI.
