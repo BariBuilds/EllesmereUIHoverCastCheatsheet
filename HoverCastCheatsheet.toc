@@ -1,0 +1,10 @@
+## Interface: 120000, 120001, 120005, 120007, 120100
+## Title: |cff0cd29fEllesmereUI HoverCast Cheatsheet|r
+## Notes: Compact display for active EllesmereUI HoverCast spell bindings.
+## Author: Bari
+## Version: 1.5.1
+## SavedVariables: HoverCastCheatsheetDB
+## Dependencies: EllesmereUI, EllesmereUIRaidFrames
+## IconTexture: Interface\AddOns\HoverCastCheatsheet\Media\HoverCastCheatsheet.tga
+
+HoverCastCheatsheet.lua
